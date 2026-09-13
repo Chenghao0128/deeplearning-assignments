@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS metadata and extracted archive artifacts
+.DS_Store
+__MACOSX/
+
+# Local archives and environments
+*.zip
+.venv/
+venv/
+
